@@ -7,6 +7,12 @@ Ubidots stores the collected health data, provides real-time visualization using
 
 To ensure timely medical attention, threshold values are configured on the Ubidots platform. Whenever any monitored health parameter exceeds the predefined safe limits, the system automatically sends instant alert notifications to the doctor and the patient's family members via SMS and email, enabling a quick response during medical emergencies.
 
+## Model Image
+<p align="center">
+  <img src="Images\our_model.png" alt="Model Image" width="800">
+</p>
+
+
 ### Features
 - Real-time health monitoring
 - Cloud-based data storage using Ubidots
